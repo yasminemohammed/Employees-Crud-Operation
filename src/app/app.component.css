@@ -1,0 +1,60 @@
+.black-border {
+  border: 1px solid black;
+}
+
+main {
+  width: 90%;
+  margin: 3rem auto 0px;
+}
+
+.toolbar {
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-employee {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+app-employee {
+  display: block;
+  width: 75%;
+  margin: 0px auto;
+  border-radius: 1rem;
+  box-shadow: 0px 0px 5px rgba(34, 34, 34, 0.5);
+}
+
+.form-heading {
+  border-top: 1px solid black;
+}
+
+.form-heading h6 {
+  text-align: center;
+  background-color: white;
+  width: 200px;
+  transform: translateY(-50%);
+}
+.h1{
+  font-size: 30px;
+  color: white;
+}
+.nav-color{
+  background-color: darkcyan;
+}
+.top-right {
+  right: 1%;
+  }
+.top-center {
+  right: 19%;
+}
+.img_size
+{
+  width:25px;
+  height:25px;;
+}

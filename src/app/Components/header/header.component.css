@@ -1,0 +1,18 @@
+.h1{
+  font-size: 30px;
+  color: white;
+}
+.nav-color{
+  background-color: darkcyan;
+}
+.top-right {
+  right: 1%;
+  }
+.top-center {
+  right: 19%;
+}
+.img_size
+{
+  width:25px;
+  height:25px;;
+}
